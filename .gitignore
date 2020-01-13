@@ -1,0 +1,6 @@
+.gitattributes
+.DS_Store
+.git/
+.theos/
+obj/
+images/
